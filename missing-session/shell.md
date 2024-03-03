@@ -1,6 +1,6 @@
 
 # MIT Lecture online 
-
+主要还是记录一些自己没有印象的shell相关工具和指令。
 ## some commad:
 `man + function` manual page of function  
 `convert input.jpg output.png`:convert  
@@ -28,6 +28,7 @@
 - `dstat` is another nifty tool that computes real-time resource metrics for lots of different subsystems like I/O, networking, CPU utilization, context switches, &c.
 - `iotop` displays live I/O usage information and is handy to check if a process is doing heavy I/O disk operations
 - `lsof` lists file information about files opened by processes. It can be quite useful for checking which process has opened a specific file.
+
 ### 0 and 1
 
 `echo "hello"` >> hello  
